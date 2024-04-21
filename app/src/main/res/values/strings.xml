@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EspressoProject</string>
+    <string-array name="numbers">
+        <item>One is done, time for some fun!</item>
+        <item>Two will do, just like a kangaroo.</item>
+        <item>If you get three, everything\'s free!</item>
+        <item>Knock on the door, it\'s four - ready for more!</item>
+        <item>Take a dive, number five - life\'s a jive.</item>
+        <item>Hit the tricks, number six - in the mix!</item>
+    </string-array>
+</resources>
